@@ -13,3 +13,11 @@ print ('Hello world!')
 name = input('What is your name? ')
 print ('Hello ' + name + '!')
 ```
+
+## Lesson 2 (2022-11-04)
+
+## Lesson 3 (2022-11-11)
+
+## Lesson 4 (2022-11-18)
+
+## Lesson 5 (2022-11-25)
